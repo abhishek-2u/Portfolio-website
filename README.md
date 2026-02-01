@@ -14,7 +14,8 @@ It showcases my skills, projects, and basic information about me.
 - HTML5
 - CSS3
 - JavaScript
-
+- PHP
+- SQL
 ## 🔹 Purpose
 This project is created for:
 - Practice web development skills  
