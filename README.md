@@ -30,5 +30,5 @@ This project is created for:
 (Coming Soon)
 
 ## 👤 Author
-**Abhisek**  
+**Abhishek**  
 GitHub: https://github.com/abhishek-2u
