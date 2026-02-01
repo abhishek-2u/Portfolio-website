@@ -30,4 +30,4 @@ This project is created for:
 
 ## 👤 Author
 **Abhisek**  
-GitHub: https://github.com/abhisek-2u
+GitHub: https://github.com/abhishek-2u
